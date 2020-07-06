@@ -1,3 +1,2 @@
-# Python-Beginning-to-Advance
-Contains codes related to several assignments and projects related to Python
-Submitted answers related to Course_3_Assessment_1
+# Data-Collection-and-Processing-with-Python
+Answers of Assessment: Nested Data and Iteration of Data Collection and Processing with Python Course offered by University of Michigan
